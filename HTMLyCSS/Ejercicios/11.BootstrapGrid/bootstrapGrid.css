@@ -1,0 +1,21 @@
+.row div{
+    margin: 0.25rem;
+}
+.col{
+    background-color: red;
+}
+.col-sm{
+    background-color: rgb(255, 100, 0);
+}
+.col-md{
+    background-color: rgb(255, 200, 0);
+}
+.col-lg{
+    background-color: rgb(155, 255, 0);
+}
+.col-xl{
+    background-color: rgb(20, 255, 0);
+}
+.col-xxl{
+    background-color: rgb(0, 255, 100);
+}

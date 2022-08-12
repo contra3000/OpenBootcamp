@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Elementos de Interés en Bootstrap</title>
+        <link
+            href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css"
+            rel="stylesheet"
+            integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx"
+            crossorigin="anonymous"
+        />
+    </head>
+    <body>
+        <div class="container">
+            <div
+                class="container p-3 rounded"
+                style="background-color: rgba(192, 209, 241, 0.603)"
+            >
+                <div class="jumbotron rounded">
+                    <h1 class="display-4">
+                        <strong>Torre torre, pichón!</strong>
+                    </h1>
+                    <p class="lead">
+                        En aeronáutica lo <strong>mandatorio</strong> es
+                        mencionar dos veces el indicativo del receptor antes de
+                        identificar el propio.
+                    </p>
+                    <hr class="my-4" />
+                    <p>
+                        La formacion académica en el ámbito aeronautico tambien
+                        es parte de la prevención efectiva de incidentes
+                    </p>
+                    <p class="lead">
+                        <button
+                            type="button"
+                            class="btn btn-primary btn-lg"
+                            data-bs-toggle="modal"
+                            data-bs-target="#exampleModal"
+                            data-bs-whatever="@getbootstrap"
+                            href="#"
+                            role="button"
+                        >
+                            Aprende hoy!
+                        </button>
+                        <span
+                            class="badge bg-warning rounded-pill position-absolute translate-middle"
+                            ><svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="16"
+                                height="16"
+                                fill="currentColor"
+                                class="bi bi-airplane-engines-fill"
+                                viewBox="0 0 16 16"
+                            >
+                                <path
+                                    d="M8 0c-.787 0-1.292.592-1.572 1.151A4.347 4.347 0 0 0 6 3v3.691l-2 1V7.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.191l-1.17.585A1.5 1.5 0 0 0 0 10.618V12a.5.5 0 0 0 .582.493l1.631-.272.313.937a.5.5 0 0 0 .948 0l.405-1.214 2.21-.369.375 2.253-1.318 1.318A.5.5 0 0 0 5.5 16h5a.5.5 0 0 0 .354-.854l-1.318-1.318.375-2.253 2.21.369.405 1.214a.5.5 0 0 0 .948 0l.313-.937 1.63.272A.5.5 0 0 0 16 12v-1.382a1.5 1.5 0 0 0-.83-1.342L14 8.691V7.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v.191l-2-1V3c0-.568-.14-1.271-.428-1.849C9.292.591 8.787 0 8 0Z"
+                                /></svg></span>
+                    </p>
+                </div>
+                <div
+                    class="modal fade"
+                    id="exampleModal"
+                    tabindex="-1"
+                    role="dialog"
+                    aria-labelledby="exampleModalLabel"
+                    aria-hidden="true"
+                >
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLabel">
+                                    Inscribite!
+                                </h5>
+                                <button
+                                    type="button"
+                                    class="close btn btn-light"
+                                    data-bs-dismiss="modal"
+                                >
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                <form>
+                                    <div class="form-group">
+                                        <label
+                                            for="recipient-name"
+                                            class="col-form-label"
+                                            >Destinatario:</label
+                                        >
+                                        <input
+                                            type="text"
+                                            class="form-control-plaintext"
+                                            id="recipient-name"
+                                            readonly
+                                            value="PilotLife@Aeronautics.org"
+                                        />
+                                    </div>
+                                    <div class="form-group">
+                                        <label
+                                            for="message-text"
+                                            class="col-form-label"
+                                            >Message:</label
+                                        >
+                                        <textarea
+                                            class="form-control mb-3"
+                                            id="message-text"
+                                        ></textarea>
+                                        <div class="form-group">
+                                            <label
+                                                for="exampleFormControlFile1"
+                                                class="d-flex mb-1"
+                                                >Curriculum Vitae:</label
+                                            >
+                                            <input
+                                                type="file"
+                                                class="form-control-file"
+                                                id="exampleFormControlFile1"
+                                            />
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                            <div class="modal-footer">
+                                <button
+                                    type="button"
+                                    class="btn btn-secondary"
+                                    data-bs-dismiss="modal"
+                                >
+                                    Close
+                                </button>
+                                <button type="button" class="btn btn-primary">
+                                    Send message
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <hr class="my-4" />
+            <div class="container">
+                <form>
+                    <h1 class="display-6">Aún tienes dudas?</h1>
+                    <div
+                        class="dudas rounded p-2"
+                        style="background-color: rgb(133, 133, 133)"
+                    >
+                        <label for="" class="contacto"
+                            ><p class="text-light">
+                                Déjanos tus datos de contacto y nos
+                                comunicaremos contigo para asesorarte!
+                            </p></label
+                        >
+                        <div class="form-group mb-2">
+                            <input
+                                type="email"
+                                class="form-control"
+                                id="exampleInputEmail1"
+                                aria-describedby="emailHelp"
+                                placeholder="Correo electrónico"
+                            />
+                            <small id="emailHelp" class="text-light"
+                                >No te preocupes, no lo compartiremos con
+                                nadie!</small
+                            >
+                        </div>
+                        <div class="form-group row align-items-center mb-2">
+                            <div class="col-sm-6 col-md-4 my-2">
+                                <input
+                                    type="text"
+                                    class="form-control col-sm-6 col-md-4"
+                                    id="name"
+                                    aria-describedby="Nombre"
+                                    placeholder="Nombre"
+                                />
+                            </div>
+                            <div class="col-sm-6 col-md-4 my-2">
+                                <input
+                                    type="text"
+                                    class="form-control"
+                                    id="lastName"
+                                    aria-describedby="Apellido"
+                                    placeholder="Apellido"
+                                />
+                            </div>
+                            <div class="form-group col-md-4 my-2">
+                                <input
+                                    type="text"
+                                    class="form-control"
+                                    id="Telefono"
+                                    placeholder="Telefono"
+                                />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <textarea
+                                class="form-control my-2"
+                                id="exampleFormControlTextarea1"
+                                rows="3"
+                                placeholder="Cuéntanos tus dudas"
+                            ></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-dark">
+                            Enviar
+                        </button>
+                    </div>
+                </form>
+            </div>
+            <hr class="my-4" />
+            <div class="container d-flex justify-content-center">
+                <div class="card col-12 col-lg-6">
+                    <img class="card-img-top" src="img/IKAH6481.JPG" alt="Heli">
+                    <div class="card-body">
+                        <h5 class="card-title">Juan Manuel Contreras</h5>
+                        <p class="card-text">Soy desarrollador de contenido con experiencia operando
+                            helicopteros en ambientes antarticos y en misiones de paz.</p>
+                        <div class="card-footer text-center m-0 pt-2">
+                            <p>Contáctame en:</p><a href="#" class="btn btn-warning"> contra3000@gmail.com</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+    <script
+        src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa"
+        crossorigin="anonymous"
+    ></script>
+</html>
