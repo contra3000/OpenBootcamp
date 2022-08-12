@@ -1,0 +1,15 @@
+C:\Users\JuanManuel\Desktop\VSProyects\C#\CS\Ejercicios\04.Bucles\Ejercicio3\Ejercicio3Extendido\obj\Debug\net6.0\Ejercicio3Extendido.csproj.AssemblyReference.cache
+C:\Users\JuanManuel\Desktop\VSProyects\C#\CS\Ejercicios\04.Bucles\Ejercicio3\Ejercicio3Extendido\obj\Debug\net6.0\Ejercicio3Extendido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuanManuel\Desktop\VSProyects\C#\CS\Ejercicios\04.Bucles\Ejercicio3\Ejercicio3Extendido\obj\Debug\net6.0\Ejercicio3Extendido.AssemblyInfoInputs.cache
+C:\Users\JuanManuel\Desktop\VSProyects\C#\CS\Ejercicios\04.Bucles\Ejercicio3\Ejercicio3Extendido\obj\Debug\net6.0\Ejercicio3Extendido.AssemblyInfo.cs
+C:\Users\JuanManuel\Desktop\VSProyects\C#\CS\Ejercicios\04.Bucles\Ejercicio3\Ejercicio3Extendido\obj\Debug\net6.0\Ejercicio3Extendido.csproj.CoreCompileInputs.cache
+C:\Users\JuanManuel\Desktop\VSProyects\C#\CS\Ejercicios\04.Bucles\Ejercicio3\Ejercicio3Extendido\bin\Debug\net6.0\Ejercicio3Extendido.exe
+C:\Users\JuanManuel\Desktop\VSProyects\C#\CS\Ejercicios\04.Bucles\Ejercicio3\Ejercicio3Extendido\bin\Debug\net6.0\Ejercicio3Extendido.deps.json
+C:\Users\JuanManuel\Desktop\VSProyects\C#\CS\Ejercicios\04.Bucles\Ejercicio3\Ejercicio3Extendido\bin\Debug\net6.0\Ejercicio3Extendido.runtimeconfig.json
+C:\Users\JuanManuel\Desktop\VSProyects\C#\CS\Ejercicios\04.Bucles\Ejercicio3\Ejercicio3Extendido\bin\Debug\net6.0\Ejercicio3Extendido.dll
+C:\Users\JuanManuel\Desktop\VSProyects\C#\CS\Ejercicios\04.Bucles\Ejercicio3\Ejercicio3Extendido\bin\Debug\net6.0\Ejercicio3Extendido.pdb
+C:\Users\JuanManuel\Desktop\VSProyects\C#\CS\Ejercicios\04.Bucles\Ejercicio3\Ejercicio3Extendido\obj\Debug\net6.0\Ejercicio3Extendido.dll
+C:\Users\JuanManuel\Desktop\VSProyects\C#\CS\Ejercicios\04.Bucles\Ejercicio3\Ejercicio3Extendido\obj\Debug\net6.0\refint\Ejercicio3Extendido.dll
+C:\Users\JuanManuel\Desktop\VSProyects\C#\CS\Ejercicios\04.Bucles\Ejercicio3\Ejercicio3Extendido\obj\Debug\net6.0\Ejercicio3Extendido.pdb
+C:\Users\JuanManuel\Desktop\VSProyects\C#\CS\Ejercicios\04.Bucles\Ejercicio3\Ejercicio3Extendido\obj\Debug\net6.0\Ejercicio3Extendido.genruntimeconfig.cache
+C:\Users\JuanManuel\Desktop\VSProyects\C#\CS\Ejercicios\04.Bucles\Ejercicio3\Ejercicio3Extendido\obj\Debug\net6.0\ref\Ejercicio3Extendido.dll
