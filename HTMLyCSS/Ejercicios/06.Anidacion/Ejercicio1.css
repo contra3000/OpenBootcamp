@@ -1,0 +1,16 @@
+button{
+    width: 125px;
+}
+
+#botonLoco::after{
+    content: "Pasa por encima";
+}
+
+#botonLoco:hover{
+    color: white;
+    background-color: green;
+}
+
+#botonLoco:hover::after{
+    content: "Hecho!";
+}
